@@ -7,9 +7,10 @@ Before running the application, make sure you have the following packages instal
 express: A web application framework for Node.js.
 body-parser: Middleware to handle HTTP POST requests.
 axios: A promise-based HTTP client for making requests.
+ejs
 
 To install the required packages, run the following command in your terminal:
-npm install express body-parser axios
+npm install express body-parser axios ejs
 
 Running the Application
 After installing the required packages, you can run the application using the following command:
