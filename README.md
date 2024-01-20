@@ -45,3 +45,4 @@ Rendering with EJS: The application uses the EJS template engine to dynamically 
 Note
 Ensure that you have an internet connection as the application relies on making requests to the GitHub API.
 If the user is not found or there is an error during API calls, an error view is displayed.
+If you are getting this error : "AxiosError: Request failed with status code 403" this you have exceeded your limit for unauthorized api request to github.
