@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    background-color: #D9EDBF;
+    font-family: Poppins;
+}
+
+h2 {
+    margin-top: 3rem;
+}
+
+.form {
+    margin-top: 5%;
+    margin-left: 40%;
+    height: 10rem;
+    width: 20rem;
+    border-radius: 0.5rem;
+
+    background-color: #7FC7D9;
+    padding-top: 3rem;
+}
+
+.form-container {
+    margin-top: 0.5rem;
+}
+
+.input-field {
+    border: none;
+    height: 1.75rem;
+    width: 13rem;
+    border-radius: 0.25rem;
+  }
+
+.submit-button {
+    border: none;
+    margin-top: 2rem;
+    height: 2rem;
+    width: 7rem;
+    border-radius: 0.5rem;
+    background-color: whitesmoke;
+  }
+  
+  .submit-button:hover {
+    background-color: #7077A1;
+  }
